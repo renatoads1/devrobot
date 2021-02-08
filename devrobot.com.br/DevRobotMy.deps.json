@@ -1,6 +1,6 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v3.0/osx-x64",
+    "name": ".NETCoreApp,Version=v3.0/linux-x64",
     "signature": ""
   },
   "compilationOptions": {
@@ -2557,7 +2557,7 @@
         }
       }
     },
-    ".NETCoreApp,Version=v3.0/osx-x64": {
+    ".NETCoreApp,Version=v3.0/linux-x64": {
       "DevRobotMy/1.0.0": {
         "dependencies": {
           "AspNet.Security.OAuth.LinkedIn": "3.0.0",
