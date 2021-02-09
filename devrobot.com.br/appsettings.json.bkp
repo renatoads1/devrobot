@@ -5,8 +5,8 @@
       "AppSecret": "40c40f9e6cc658592cdb079662594eec"
     },
     "Google": {
-      "ClientId": "581987122994-vm14e7uqlg0ck61h0077g4l6m752hrgr.apps.googleusercontent.com",
-      "ClientSecret": "EjpsvJ1-h-JA6GYThV5rTcwi"
+      "ClientId": "757106506863-9mdcd22s43tijetv2a9jd76a08htes8g.apps.googleusercontent.com",
+      "ClientSecret": "BhZOIAEQJKg7K0tcbSS9Iwsd"
     },
     "Linkedin": {
       "ClientId": "78agg2t6xbw7ua",
@@ -19,10 +19,12 @@
   },
   "Logging": {
     "LogLevel": {
-      "Default": "Debug",
+      "Default": "Information",
       "Microsoft": "Warning",
       "Microsoft.Hosting.Lifetime": "Information"
     }
   },
   "AllowedHosts": "*"
 }
+//instale o pomelo daqui e veja o arquivo da pasta img
+//install-Package Pomelo.EntityFrameworkCore.MySql -Version 5.0.0-alpha.2
