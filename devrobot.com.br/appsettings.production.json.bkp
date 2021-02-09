@@ -1,4 +1,7 @@
 {
+  "ConnectionStrings": {
+    "DefaultConnection": "server=localhost;port=3306;database=devrobot;user=root;password=r3n4t0321;Persist Security Info=False; Connect Timeout=300"
+  },
   "Authentication": {
     "Facebook": {
       "AppId": "274840720657476",
@@ -13,15 +16,11 @@
       "ClientSecret": "yytSbcOoT3Sz05bl"
     }
   },
-  "ConnectionStrings": {
-    //"DefaultConnection": "server=localhost;port=3306;database=devrobot;user=root;password=matur@123;Persist Security Info=False; Connect Timeout=300"
-    "DefaultConnection": "server=localhost;port=3306;database=devrobot;user=root;password=r3n4t0321;Persist Security Info=False; Connect Timeout=300"
-  },
-  "Logging": {
+    "Logging": {
     "LogLevel": {
-      "Default": "Debug",
-      "Microsoft": "Warning",
-      "Microsoft.Hosting.Lifetime": "Information"
+    "Default": "Information",
+    "Microsoft": "Warning",
+    "Microsoft.Hosting.Lifetime": "Information"
     }
   },
   "AllowedHosts": "*"

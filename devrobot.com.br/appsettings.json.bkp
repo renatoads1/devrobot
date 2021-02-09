@@ -19,10 +19,12 @@
   },
   "Logging": {
     "LogLevel": {
-      "Default": "Debug",
+      "Default": "Information",
       "Microsoft": "Warning",
       "Microsoft.Hosting.Lifetime": "Information"
     }
   },
   "AllowedHosts": "*"
 }
+//instale o pomelo daqui e veja o arquivo da pasta img
+//install-Package Pomelo.EntityFrameworkCore.MySql -Version 5.0.0-alpha.2
